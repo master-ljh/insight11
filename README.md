@@ -1,5 +1,2 @@
 #Data Anntations
-# insight11
-# insight11
-# insight
-# insight11
+# 正在标注肿瘤类器官的分割数据
